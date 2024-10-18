@@ -4,7 +4,7 @@ This project is a Face and Hand Tracker application.
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.12
 - Bash shell (for Unix-based systems) or Git Bash (for Windows)
 
 ## Setup and Running the Project
